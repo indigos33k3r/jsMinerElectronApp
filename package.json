@@ -1,0 +1,15 @@
+{
+  "name": "jsminerelectronapp",
+  "version": "1.0.0",
+  "description": "js minner for desktop using coinhive",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Siddhartha singh",
+  "license": "MIT"
+}
